@@ -1,0 +1,62 @@
+2025-05-04 16:19:48,557 - INFO - Using device: cpu
+2025-05-04 16:19:51,750 - INFO - Database initialized.
+2025-05-04 16:19:51,774 - INFO - Not enough data to train model.
+2025-05-04 16:19:51,808 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\junai\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python312\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-05-04 16:19:51,808 - INFO - Using writeable comtypes cache directory: 'C:\Users\junai\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\comtypes\gen'
+2025-05-04 16:19:54,709 - WARNING - From C:\Users\junai\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\tf_keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+
+2025-05-04 16:20:17,487 - WARNING - Haar cascade file missing. Using threshold detection.
+2025-05-04 16:20:19,044 - INFO - Stored interaction: visual, wave
+2025-05-04 16:20:52,983 - INFO - Stored interaction: text, wanna make a bot
+2025-05-04 16:31:01,970 - INFO - Opening tunnel named: http-8000-0ece8959-7fa6-420c-97e7-32236cc66782
+2025-05-04 16:31:01,972 - INFO - Overriding default auth token
+2025-05-04 16:31:02,020 - INFO - t=2025-05-04T16:31:02+0530 lvl=info msg="no configuration paths supplied"
+2025-05-04 16:31:02,020 - INFO - t=2025-05-04T16:31:02+0530 lvl=info msg="ignoring default config path, could not stat it" path=C:\\Users\\junai\\AppData\\Local/ngrok/ngrok.yml
+2025-05-04 16:31:02,021 - ERROR - t=2025-05-04T16:31:02+0530 lvl=eror msg="unable to evaluate ngrok agent binary path for symlinks" obj=tunnels.session err="CreateFile C:\\Users\\junai\\AppData\\Local\\ngrok: The system cannot find the file specified."
+2025-05-04 16:31:02,022 - INFO - t=2025-05-04T16:31:02+0530 lvl=info msg="starting web service" obj=web addr=127.0.0.1:4040 allow_hosts=[]
+2025-05-04 16:31:02,336 - ERROR - t=2025-05-04T16:31:02+0530 lvl=eror msg="failed to reconnect session" obj=tunnels.session err="authentication failed: The authtoken you specified does not look like a proper ngrok tunnel authtoken.\nYour authtoken: YOUR_NGROK_AUTH_TOKEN\nInstructions to install your authtoken are on your ngrok dashboard:\nhttps://dashboard.ngrok.com/get-started/your-authtoken\r\n\r\nERR_NGROK_105\r\n"
+2025-05-04 16:31:02,337 - ERROR - t=2025-05-04T16:31:02+0530 lvl=eror msg="session closing" obj=tunnels.session err="authentication failed: The authtoken you specified does not look like a proper ngrok tunnel authtoken.\nYour authtoken: YOUR_NGROK_AUTH_TOKEN\nInstructions to install your authtoken are on your ngrok dashboard:\nhttps://dashboard.ngrok.com/get-started/your-authtoken\r\n\r\nERR_NGROK_105\r\n"
+2025-05-04 16:31:02,338 - INFO - t=2025-05-04T16:31:02+0530 lvl=info msg="received stop request" obj=app stopReq="{err:{Remote:true Inner:{Inner:0xc00011e380}} restart:false}"
+2025-05-04 16:31:02,338 - ERROR - t=2025-05-04T16:31:02+0530 lvl=eror msg="terminating with error" obj=app err="authentication failed: The authtoken you specified does not look like a proper ngrok tunnel authtoken.\nYour authtoken: YOUR_NGROK_AUTH_TOKEN\nInstructions to install your authtoken are on your ngrok dashboard:\nhttps://dashboard.ngrok.com/get-started/your-authtoken\r\n\r\nERR_NGROK_105\r\n"
+2025-05-04 16:31:02,339 - WARNING - t=2025-05-04T16:31:02+0530 lvl=warn msg="failed to check for update" obj=updater err="Post \"https://update.equinox.io/check\": context canceled"
+2025-05-04 16:31:02,339 - CRITICAL - t=2025-05-04T16:31:02+0530 lvl=crit msg="command failed" err="authentication failed: The authtoken you specified does not look like a proper ngrok tunnel authtoken.\nYour authtoken: YOUR_NGROK_AUTH_TOKEN\nInstructions to install your authtoken are on your ngrok dashboard:\nhttps://dashboard.ngrok.com/get-started/your-authtoken\r\n\r\nERR_NGROK_105\r\n"
+2025-05-04 16:31:02,339 - INFO - t=2025-05-04T16:31:02+0530 lvl=info msg="no more state changes" obj=tunnels.session
+2025-05-04 16:31:02,339 - ERROR - Ngrok retry 1/3 failed: The ngrok process errored on start: authentication failed: The authtoken you specified does not look like a proper ngrok tunnel authtoken.\nYour authtoken: YOUR_NGROK_AUTH_TOKEN\nInstructions to install your authtoken are on your ngrok dashboard:\nhttps://dashboard.ngrok.com/get-started/your-authtoken\r\n\r\nERR_NGROK_105\r\n.
+2025-05-04 16:31:07,345 - INFO - Opening tunnel named: http-8000-552c621a-df82-428c-aefa-dcf7f30ced41
+2025-05-04 16:31:07,346 - INFO - Overriding default auth token
+2025-05-04 16:31:07,390 - INFO - t=2025-05-04T16:31:07+0530 lvl=info msg="no configuration paths supplied"
+2025-05-04 16:31:07,390 - INFO - t=2025-05-04T16:31:07+0530 lvl=info msg="ignoring default config path, could not stat it" path=C:\\Users\\junai\\AppData\\Local/ngrok/ngrok.yml
+2025-05-04 16:31:07,391 - ERROR - t=2025-05-04T16:31:07+0530 lvl=eror msg="unable to evaluate ngrok agent binary path for symlinks" obj=tunnels.session err="CreateFile C:\\Users\\junai\\AppData\\Local\\ngrok: The system cannot find the file specified."
+2025-05-04 16:31:07,392 - INFO - t=2025-05-04T16:31:07+0530 lvl=info msg="starting web service" obj=web addr=127.0.0.1:4040 allow_hosts=[]
+2025-05-04 16:31:07,586 - ERROR - t=2025-05-04T16:31:07+0530 lvl=eror msg="failed to reconnect session" obj=tunnels.session err="authentication failed: The authtoken you specified does not look like a proper ngrok tunnel authtoken.\nYour authtoken: YOUR_NGROK_AUTH_TOKEN\nInstructions to install your authtoken are on your ngrok dashboard:\nhttps://dashboard.ngrok.com/get-started/your-authtoken\r\n\r\nERR_NGROK_105\r\n"
+2025-05-04 16:31:07,587 - ERROR - t=2025-05-04T16:31:07+0530 lvl=eror msg="session closing" obj=tunnels.session err="authentication failed: The authtoken you specified does not look like a proper ngrok tunnel authtoken.\nYour authtoken: YOUR_NGROK_AUTH_TOKEN\nInstructions to install your authtoken are on your ngrok dashboard:\nhttps://dashboard.ngrok.com/get-started/your-authtoken\r\n\r\nERR_NGROK_105\r\n"
+2025-05-04 16:31:07,587 - INFO - t=2025-05-04T16:31:07+0530 lvl=info msg="received stop request" obj=app stopReq="{err:{Remote:true Inner:{Inner:0xc000186230}} restart:false}"
+2025-05-04 16:31:07,588 - ERROR - t=2025-05-04T16:31:07+0530 lvl=eror msg="terminating with error" obj=app err="authentication failed: The authtoken you specified does not look like a proper ngrok tunnel authtoken.\nYour authtoken: YOUR_NGROK_AUTH_TOKEN\nInstructions to install your authtoken are on your ngrok dashboard:\nhttps://dashboard.ngrok.com/get-started/your-authtoken\r\n\r\nERR_NGROK_105\r\n"
+2025-05-04 16:31:07,588 - WARNING - t=2025-05-04T16:31:07+0530 lvl=warn msg="failed to check for update" obj=updater err="Post \"https://update.equinox.io/check\": context canceled"
+2025-05-04 16:31:07,589 - CRITICAL - t=2025-05-04T16:31:07+0530 lvl=crit msg="command failed" err="authentication failed: The authtoken you specified does not look like a proper ngrok tunnel authtoken.\nYour authtoken: YOUR_NGROK_AUTH_TOKEN\nInstructions to install your authtoken are on your ngrok dashboard:\nhttps://dashboard.ngrok.com/get-started/your-authtoken\r\n\r\nERR_NGROK_105\r\n"
+2025-05-04 16:31:07,589 - INFO - t=2025-05-04T16:31:07+0530 lvl=info msg="no more state changes" obj=tunnels.session
+2025-05-04 16:31:07,597 - ERROR - Ngrok retry 2/3 failed: The ngrok process errored on start: authentication failed: The authtoken you specified does not look like a proper ngrok tunnel authtoken.\nYour authtoken: YOUR_NGROK_AUTH_TOKEN\nInstructions to install your authtoken are on your ngrok dashboard:\nhttps://dashboard.ngrok.com/get-started/your-authtoken\r\n\r\nERR_NGROK_105\r\n.
+2025-05-04 16:31:12,598 - INFO - Opening tunnel named: http-8000-6d102618-8a03-4c64-9bd6-c32a50921502
+2025-05-04 16:31:12,599 - INFO - Overriding default auth token
+2025-05-04 16:31:12,636 - INFO - t=2025-05-04T16:31:12+0530 lvl=info msg="no configuration paths supplied"
+2025-05-04 16:31:12,637 - INFO - t=2025-05-04T16:31:12+0530 lvl=info msg="ignoring default config path, could not stat it" path=C:\\Users\\junai\\AppData\\Local/ngrok/ngrok.yml
+2025-05-04 16:31:12,637 - ERROR - t=2025-05-04T16:31:12+0530 lvl=eror msg="unable to evaluate ngrok agent binary path for symlinks" obj=tunnels.session err="CreateFile C:\\Users\\junai\\AppData\\Local\\ngrok: The system cannot find the file specified."
+2025-05-04 16:31:12,638 - INFO - t=2025-05-04T16:31:12+0530 lvl=info msg="starting web service" obj=web addr=127.0.0.1:4040 allow_hosts=[]
+2025-05-04 16:31:12,814 - ERROR - t=2025-05-04T16:31:12+0530 lvl=eror msg="failed to reconnect session" obj=tunnels.session err="authentication failed: The authtoken you specified does not look like a proper ngrok tunnel authtoken.\nYour authtoken: YOUR_NGROK_AUTH_TOKEN\nInstructions to install your authtoken are on your ngrok dashboard:\nhttps://dashboard.ngrok.com/get-started/your-authtoken\r\n\r\nERR_NGROK_105\r\n"
+2025-05-04 16:31:12,815 - ERROR - t=2025-05-04T16:31:12+0530 lvl=eror msg="session closing" obj=tunnels.session err="authentication failed: The authtoken you specified does not look like a proper ngrok tunnel authtoken.\nYour authtoken: YOUR_NGROK_AUTH_TOKEN\nInstructions to install your authtoken are on your ngrok dashboard:\nhttps://dashboard.ngrok.com/get-started/your-authtoken\r\n\r\nERR_NGROK_105\r\n"
+2025-05-04 16:31:12,816 - INFO - t=2025-05-04T16:31:12+0530 lvl=info msg="received stop request" obj=app stopReq="{err:{Remote:true Inner:{Inner:0xc00074a580}} restart:false}"
+2025-05-04 16:31:12,816 - ERROR - t=2025-05-04T16:31:12+0530 lvl=eror msg="terminating with error" obj=app err="authentication failed: The authtoken you specified does not look like a proper ngrok tunnel authtoken.\nYour authtoken: YOUR_NGROK_AUTH_TOKEN\nInstructions to install your authtoken are on your ngrok dashboard:\nhttps://dashboard.ngrok.com/get-started/your-authtoken\r\n\r\nERR_NGROK_105\r\n"
+2025-05-04 16:31:12,816 - WARNING - t=2025-05-04T16:31:12+0530 lvl=warn msg="failed to check for update" obj=updater err="Post \"https://update.equinox.io/check\": context canceled"
+2025-05-04 16:31:12,816 - CRITICAL - t=2025-05-04T16:31:12+0530 lvl=crit msg="command failed" err="authentication failed: The authtoken you specified does not look like a proper ngrok tunnel authtoken.\nYour authtoken: YOUR_NGROK_AUTH_TOKEN\nInstructions to install your authtoken are on your ngrok dashboard:\nhttps://dashboard.ngrok.com/get-started/your-authtoken\r\n\r\nERR_NGROK_105\r\n"
+2025-05-04 16:31:12,816 - INFO - t=2025-05-04T16:31:12+0530 lvl=info msg="no more state changes" obj=tunnels.session
+2025-05-04 16:31:12,822 - ERROR - Ngrok retry 3/3 failed: The ngrok process errored on start: authentication failed: The authtoken you specified does not look like a proper ngrok tunnel authtoken.\nYour authtoken: YOUR_NGROK_AUTH_TOKEN\nInstructions to install your authtoken are on your ngrok dashboard:\nhttps://dashboard.ngrok.com/get-started/your-authtoken\r\n\r\nERR_NGROK_105\r\n.
+2025-05-04 16:31:12,822 - ERROR - Ngrok failed after retries. Disabling ngrok.
+2025-05-04 16:55:16,495 - INFO - Using device: cpu
+2025-05-04 16:55:16,495 - WARNING - CUDA not available. Using CPU. Ensure CUDA 12.1 and cuDNN are installed.
+2025-05-04 16:55:16,524 - INFO - Database initialized.
+2025-05-04 16:55:16,526 - ERROR - Invalid ngrok authtoken. Set a valid token in NGROK_AUTH_TOKEN or CONFIG. Disabling ngrok.
+2025-05-04 16:55:16,529 - INFO - Not enough data to train model.
+2025-05-04 16:55:16,568 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\junai\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python312\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-05-04 16:55:16,568 - INFO - Using writeable comtypes cache directory: 'C:\Users\junai\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\comtypes\gen'
+2025-05-04 16:55:43,384 - INFO - Stored trading idea: snr
+2025-05-04 16:56:27,030 - INFO - Stored interaction: text, planning to make a new trading bot
